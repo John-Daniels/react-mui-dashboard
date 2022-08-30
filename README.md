@@ -1,8 +1,13 @@
 # React MUI
 
-#### showcasing material-ui's awesomeness
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/598c7e2d-541f-43ed-8ab7-ed8e5bbfcd25/deploy-status)](https://app.netlify.com/sites/react-mui-demo-johnkoder/deploys)
+
+## showcasing material-ui's awesomeness
+
+> Responsive Design
+> Awesome user feedback
+> Customizable Components
+> Dark Mode
 
 ## Setup
 
