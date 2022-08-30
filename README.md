@@ -4,10 +4,11 @@
 
 ## showcasing material-ui's awesomeness
 
-> Responsive Design
-> Awesome user feedback
-> Customizable Components
-> Dark Mode
+- [x] Responsive Design
+- [x] Awesome user feedback
+- [x] Customizable Components
+- [x] Dark Mode
+- [x] Awesome web components
 
 ## Setup
 
